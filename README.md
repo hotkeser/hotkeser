@@ -1,4 +1,1 @@
 - 👋 Hi, I’m dev
-- 👀 I’m interested in android and macOS
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on MacOs
